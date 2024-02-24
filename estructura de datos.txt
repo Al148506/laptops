@@ -1,0 +1,23 @@
+Brand: El fabricante o empresa que produce la computadora portátil.
+Price: El costo de la computadora portátil tal como figura en eBay.
+Currency: Tipo de moneda 
+Color: Color del producto
+Feactures: características que incluye el producto
+Condition: El estado de la computadora portátil, como nueva, usada, reacondicionada, etc.
+Seller note: información adicional o notas proporcionadas por el vendedor sobre la computadora portátil.
+GPU: La unidad de procesamiento de gráficos responsable de renderizar imágenes y videos.
+Processor: La unidad central de procesamiento (CPU) que alimenta la computadora portátil.
+Processor Speed: la velocidad del reloj del procesador de la computadora portátil, generalmente medida en GHz.
+Processor Speed Unit: Unidad de velocidad de procesamiento
+Type: El tipo de computadora portátil, como notebook, ultrabook, 2 en 1, etc.
+Width of the Display: Resolución por pixeles del ancho de la pantalla
+Height of the Display: Resolución por pixeles del alto de la pantalla
+OS: El sistema operativo instalado en la computadora portátil, por ejemplo, Windows, macOS, Linux.
+Storage Type: El tipo de tecnología de almacenamiento utilizada, por ejemplo, HDD, SSD, híbrido.
+Hard Drive Capacity: Capacidad del almacenamiento HDD
+Hard Drive Capacity Unit: Unidad de almacenamiento del HDD
+SSD Capacity: Capacidad del almacenamiento SSD
+SSD Capacity Unit: Unidad de almacenamiento SSD
+Screen size: La medida diagonal de la pantalla del portátil en pulgadas.
+Ram size: La cantidad de memoria de acceso aleatorio (RAM) en la computadora portátil.
+Ram Size Unit: Unidad utilizada de la memoria RAM

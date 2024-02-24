@@ -1,0 +1,1023 @@
+Brand,Price,Color,Condition,GPU,Processor Speed,OS,Storage Type,Hard Drive Capacity,SSD Capacity,Screen Size (inch),Ram Size
+dell,175,black,Used,intel,2.4,windows,hdd/ssd,500,500,14,16
+dell,101.25,other,Good - Refurbished,other,1.4,windows,ssd,0,256,12.5,8
+acer,50,black,Used,other,1.6,chrome,ssd,0,16,11.6,4
+hp,39.6,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,280,black,Excellent - Refurbished,other,2.8,windows,hdd/ssd,512,500,14,16
+lenovo,138,black,Used,intel,1.7,windows,ssd,0,128,14,16
+dell,218,black,Used,intel,1.6,unknown,ssd,0,512,15.6,16
+dell,130,black,Used,intel,1.1,windows,hdd/ssd,128,128,11,4
+acer,40,gray,Used,intel,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,625,other,Open box,other,4.4,windows,hdd/ssd,1000,1000,16,32
+dell,315,silver,Used,amd,2.3,windows,ssd,0,512,14,16
+dell,200,black,Used,intel,2.6,windows,hdd/ssd,256,256,12.5,8
+hp,300,silver,New,intel,1.6,unknown,ssd,0,512,13,16
+microsoft,60,gray,Used,other,1.9,windows,hdd/ssd,128,128,12,4
+hp,439,silver,New,intel,4.2,windows,hdd/ssd,2000,2000,15.6,32
+dell,345,black,Very Good - Refurbished,intel,3.1,windows,hdd/ssd,512,512,15.6,16
+hp,209,black,Very Good - Refurbished,intel,2.5,windows,ssd,0,512,15.6,16
+lenovo,799,gray,Used,nvidia,3.5,windows,ssd,0,512,16,16
+lenovo,100,brown,Used,intel,1.9,unknown,hdd/ssd,256,256,14,8
+dell,219,black,Used,other,3.9,windows,hdd/ssd,512,512,15.61,16
+dell,152.5,black,Used,intel,1.6,windows,ssd,0,256,14,8
+dell,489,black,New,amd,4.5,windows,hdd/ssd,512,512,15.6,16
+dell,120,black,Used,other,2.4,unknown,hdd,8,0,14,8
+hp,29.98,multicolor,Used,other,2.16,chrome,hdd/ssd,16,16,14,16
+hp,145,black,Very Good - Refurbished,intel,2.3,windows,ssd,0,512,15.6,8
+dell,160,other,Used,other,2.3,windows,hdd/ssd,256,256,15.6,8
+dell,130,black,Used,intel,2.6,windows,hdd/ssd,256,256,12.5,8
+lenovo,81,black,Used,other,2.5,windows,hdd/ssd,320,120,12.5,4
+microsoft,103.75,silver,Used,other,2.6,unknown,hdd,512,0,13.5,1
+dell,200,black,Used,nvidia,2.5,windows,ssd,0,256,15.6,8
+dell,105,black,Used,other,2.6,windows,hdd/ssd,256,256,14,8
+lenovo,90,black,Used,other,2.3,windows,hdd/ssd,128,128,11.6,8
+lenovo,599,grey,New,intel,4.2,windows,hdd/ssd,1000,1000,15.6,20
+dell,170,other,Very Good - Refurbished,other,2.4,unknown,hdd/ssd,500,500,14,16
+dell,239,other,Used,other,2.7,windows,ssd,0,512,15.6,16
+hp,290,silver,Very Good - Refurbished,intel,2.6,windows,hdd/ssd,500,500,14,32
+microsoft,409,silver,Open box,intel,2.4,windows,ssd,0,256,12.3,8
+dell,200,black,Used,intel,2.4,windows,hdd/ssd,256,256,14,8
+hp,659,blue,Used,nvidia,2.1,windows,ssd,0,512,15.6,8
+dell,229,gray,Used,intel,1.7,unknown,hdd/ssd,512,512,14,16
+lenovo,180,black,Used,intel,2.6,windows,hdd/ssd,512,512,14.1,16
+dell,125.94,black,Very Good - Refurbished,intel,2.4,windows,ssd,0,240,14,8
+lenovo,90,gray,Used,intel,2.2,windows,ssd,0,128,13,4
+hp,999,other,Used,other,1.6,unknown,ssd,0,256,15.6,8
+lenovo,229,other,Used,other,1.7,windows,ssd,0,256,14,16
+asus,293,gray,Used,intel,1.8,windows,hdd/ssd,256,256,15.6,8
+dell,185,gray,Used,other,1.7,unknown,ssd,0,512,14,16
+hp,259,silver,Used,intel,2.1,windows,hdd/ssd,256,256,11.6,8
+dell,75,black,Used,other,1.1,windows,ssd,0,128,11.6,4
+hp,44.75,gray,Used,other,1.1,chrome,hdd/ssd,32,32,11.6,4
+dell,220,other,Excellent - Refurbished,intel,2.6,windows,hdd/ssd,500,500,12.5,16
+dell,260,other,Excellent - Refurbished,other,1.9,windows,hdd/ssd,512,512,13.3,16
+dell,300,black,Used,intel,2,windows,ssd,0,256,14,12
+hp,69,multicolor,Used,intel,2,linux,ssd,0,240,14,3
+lenovo,370,black,Used,intel,1.6,windows,ssd,0,256,13.3,8
+lenovo,270,gray,Used,intel,1.2,windows,ssd,0,256,14,8
+acer,90,silver,Used,intel,1.1,windows,hdd/ssd,128,128,14,4
+dell,199,other,Used,intel,1.2,windows,ssd,0,128,11.6,8
+microsoft,200,silver,Used,intel,2.5,windows,hdd/ssd,256,256,13.5,8
+hp,390,silver,New,intel,2.4,windows,hdd/ssd,256,256,15.6,8
+dell,125,black,Used,other,2,windows,hdd,160,0,15.4,3
+lenovo,250,black,Used,other,2.1,windows,hdd/ssd,256,256,15.6,8
+hp,140,silver,Used,intel,1.1,chrome,hdd/ssd,64,64,14,4
+lenovo,1197,other,Used,intel,1.7,windows,ssd,0,512,14,16
+dell,144,other,Used,intel,2.5,unknown,hdd,240,0,14,4
+dell,75,silver,Used,intel,2.7,windows,hdd,200,0,14,4
+hp,699,silver,New,nvidia,4.4,windows,hdd/ssd,2000,2000,15.6,64
+dell,180,black,Used,other,2.4,windows,ssd,0,256,14,8
+lenovo,192,gray,Open box,intel,1.2,windows,hdd/ssd,8,256,15.6,8
+acer,390,blue,New,amd,2.8,windows,ssd,0,512,15.6,8
+acer,54,black,Used,other,1.6,linux,hdd/ssd,16,16,11.6,4
+dell,370,black,Excellent - Refurbished,intel,1.9,windows,hdd/ssd,1000,1000,14,32
+lenovo,150,black,Used,other,1.6,windows,ssd,0,256,14,16
+lenovo,444.5,blue,Open box,intel,4.4,windows,hdd/ssd,512,512,15.6,12
+microsoft,530,silver,Good - Refurbished,other,2.4,windows,ssd,0,256,12.3,16
+lenovo,198,black,Used,intel,1.6,unknown,hdd/ssd,256,256,14,16
+hp,88,other,Used,other,1.6,windows,hdd/ssd,128,128,12,4
+hp,444.2,other,Open box,intel,3.5,windows,hdd/ssd,256,256,17.3,12
+dell,235,black,Used,nvidia,2.7,windows,ssd,0,512,15.6,16
+lenovo,29.98,black,Used,intel,2.5,windows,hdd,300,0,15,4
+lenovo,450,black,Very Good - Refurbished,nvidia,2.8,windows,ssd,0,512,15.6,16
+microsoft,259.8,silver,Used,intel,1.5,windows,hdd/ssd,256,256,13.5,8
+hp,172,silver,Used,intel,1.9,windows,hdd/ssd,256,256,14,8
+dell,422,other,Good - Refurbished,intel,2.6,windows,ssd,0,256,11.6,16
+lenovo,268,black,Very Good - Refurbished,nvidia,2.4,windows,ssd,0,512,15.6,16
+lenovo,187.8,purple,Used,nvidia,2.9,windows,ssd,0,256,14.1,16
+asus,289.5,black,Used,intel,3,windows,hdd/ssd,256,256,14,8
+microsoft,130,silver,Used,other,2.4,windows,hdd/ssd,256,256,12.3,8
+dell,400,black,Used,other,1.7,windows,hdd/ssd,512,512,15.6,16
+hp,725,other,Open box,other,3.3,windows,ssd,0,256,16,16
+lenovo,400,black,Excellent - Refurbished,intel,1.8,windows,hdd/ssd,1000,1000,14,24
+hp,450,silver,Open box,amd,2.6,windows,ssd,0,256,14,16
+dell,155,black,Used,intel,1.9,windows,ssd,0,256,14,16
+dell,279,black,Used,other,2.6,windows,hdd/ssd,1000,1000,14,16
+hp,329.5,other,Good - Refurbished,intel,2.8,windows,ssd,0,256,14,16
+dell,260,silver,Used,other,2.7,windows,ssd,0,256,15.6,32
+hp,40,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,300,silver,New,other,1.6,windows,hdd/ssd,128,128,13.3,4
+lenovo,270,blue,Used,intel,3,chrome,ssd,0,256,13.3,8
+lenovo,450,black,Very Good - Refurbished,nvidia,2.8,windows,ssd,0,512,15.6,16
+dell,180,black,Used,intel,2.4,windows,hdd/ssd,512,512,14,8
+hp,87.1,black,For parts or not working,other,2.5,unknown,hdd,1000,0,15.6,8
+hp,45,multicolor,Used,other,2.16,chrome,hdd/ssd,16,16,14,16
+dell,599,black,New,intel,2.4,windows,hdd/ssd,1000,1000,15.6,16
+asus,70,black,Used,intel,2.5,windows,hdd,750,0,15.6,6
+hp,525,silver,Used,nvidia,2.6,windows,hdd/ssd,512,512,17.3,64
+lenovo,44,gray,Used,other,1.1,chrome,hdd/ssd,32,32,11.6,4
+lg,589,gray,Used,intel,2.9,windows,ssd,0,512,17,16
+lenovo,350,blue,Certified - Refurbished,amd,2.1,windows,ssd,0,256,13.3,8
+lenovo,51,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+hp,1149,black,New,nvidia,2.4,windows,hdd/ssd,1000,1000,16.1,16
+dell,159.8,pink,Used,other,3,windows,hdd/ssd,256,256,14,16
+lenovo,120.3,other,Good - Refurbished,intel,1.9,windows,hdd,500,0,12.5,8
+dell,106.25,black,Used,other,2.3,unknown,hdd,500,0,14,8
+lenovo,453.8,other,Used,intel,2.1,windows,hdd/ssd,128,128,14,8
+dell,110,black,Used,other,2.3,windows,ssd,0,128,14,4
+dell,299.8,other,Used,intel,2.4,windows,hdd,250,0,14,8
+lenovo,200,black,Used,intel,2.4,windows,hdd/ssd,512,512,14,8
+lenovo,188.8,other,Used,intel,2.4,windows,hdd/ssd,256,256,14,8
+dell,80,other,Used,other,1.9,windows,hdd/ssd,500,500,14,4
+samsung,47,black,Used,intel,2.5,chrome,hdd/ssd,16,16,11.6,4
+lenovo,100,black,Used,intel,2.5,windows,hdd,500,0,15.6,4
+dell,450,other,Used,other,1.6,chrome,hdd/ssd,32,32,11,4
+microsoft,175,silver,Used,intel,1.2,unknown,hdd/ssd,128,128,13.5,8
+dell,140,black,Used,intel,1.6,windows,hdd,500,0,14,16
+dell,335,black,Excellent - Refurbished,intel,1.9,windows,hdd/ssd,512,512,14,32
+dell,79,other,Used,other,2.3,windows,hdd/ssd,250,250,14,4
+dell,73,other,Used,other,2.1,windows,hdd/ssd,500,500,14,8
+dell,149,silver,Used,intel,2,windows,ssd,0,128,14,4
+lenovo,500,black,New,amd,2.3,windows,hdd/ssd,256,256,14,16
+asus,70,black,Used,intel,2.5,windows,hdd,750,0,15.6,6
+lg,990,black,Used,intel,2.9,windows,ssd,0,1000,17,16
+acer,230,gray,Used,intel,1.8,chrome,hdd/ssd,16,128,13.5,16
+acer,118.1,other,Used,other,2.3,windows,ssd,0,128,12,4
+lenovo,320,gray,Used,intel,1,windows,hdd/ssd,512,512,14,16
+hp,75,other,Used,other,1.6,windows,hdd,320,0,14,4
+dell,350,gray,Used,intel,1.9,windows,ssd,0,512,14,16
+dell,399,other,Used,other,2.7,unknown,hdd/ssd,512,512,17.3,16
+hp,100,gray,Used,intel,2.5,windows,hdd/ssd,500,500,15.6,8
+hp,200,silver,Used,intel,1.7,chrome,hdd/ssd,64,64,14,8
+dell,115,black,Used,intel,2.3,windows,hdd/ssd,256,256,15.6,8
+dell,399,black,Used,intel,1.7,unknown,hdd/ssd,512,512,14,32
+microsoft,93,silver,Used,other,2.6,windows,hdd/ssd,128,128,13.5,8
+hp,180,black,Used,other,2.4,windows,ssd,0,256,14,8
+microsoft,725,other,Very Good - Refurbished,other,1.3,windows,ssd,0,256,13.5,16
+dell,29.89,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+hp,184.1,other,Used,other,2.7,windows,ssd,0,256,15.6,8
+hp,157.8,purple,Used,intel,2.6,windows,hdd/ssd,500,500,15.6,16
+samsung,48,silver,Used,other,2.16,chrome,hdd/ssd,2,16,11.6,16
+dell,93,black,Used,intel,1.1,windows,hdd/ssd,64,64,11.6,4
+dell,235,black,Used,nvidia,2.7,windows,ssd,0,512,15.6,16
+lenovo,52,black,Used,other,1.6,linux,hdd/ssd,16,16,11.6,4
+lenovo,420,black,Used,amd,2.3,windows,hdd/ssd,256,256,14,16
+samsung,40.47,black,Used,intel,2.5,chrome,hdd/ssd,16,16,11.6,4
+dell,89,silver,Used,other,2.66,windows,hdd,500,0,14.1,4
+hp,172,silver,Used,intel,1.9,windows,hdd/ssd,256,256,14,8
+lenovo,268,black,Very Good - Refurbished,nvidia,2.4,windows,ssd,0,512,15.6,16
+microsoft,259.8,silver,Used,intel,1.5,windows,hdd/ssd,256,256,13.5,8
+dell,879,gray,Used,nvidia,2.8,windows,ssd,0,1000,17.3,64
+hp,450,silver,Open box,amd,2.6,windows,ssd,0,256,14,16
+lenovo,60,gray,Used,amd,1.6,chrome,ssd,0,32,14,4
+dell,885,black,Used,intel,1.1,unknown,hdd/ssd,128,128,11.6,4
+dell,140,black,Used,intel,2.3,windows,hdd/ssd,8,500,14,8
+dell,323,other,Used,intel,2.6,windows,ssd,0,512,14,16
+lenovo,210,black,Open box,amd,2.5,windows,ssd,0,128,14,8
+dell,240,black,Excellent - Refurbished,intel,1.7,windows,hdd/ssd,500,500,14,32
+dell,190.8,other,Used,other,1.7,windows,ssd,0,256,15.6,8
+lenovo,230,black,Used,other,2.5,unknown,hdd/ssd,500,500,15.6,4
+lenovo,215,beige,Used,intel,1.2,windows,ssd,0,512,15.6,12
+acer,79.1,other,Used,nvidia,2.3,windows,hdd,720,0,15.6,8
+dell,599,black,New,intel,2.4,windows,hdd/ssd,1000,1000,15.6,16
+hp,226.5,silver,Used,intel,1.8,windows,ssd,0,500,15.6,16
+acer,105.06,other,Used,other,1.6,windows,ssd,0,128,14,8
+dell,31.95,black,For parts or not working,intel,1.6,unknown,hdd,8,0,10.8,8
+dell,75,silver,Used,intel,2.67,windows,hdd,250,0,13.3,4
+lenovo,189,black,Used,intel,1.6,windows,hdd/ssd,256,256,14,16
+lenovo,198,other,Good - Refurbished,other,2.5,windows,ssd,0,256,14,16
+hp,686,other,Used,nvidia,3.3,windows,hdd/ssd,512,512,15.6,8
+lenovo,164.2,other,Used,other,2.6,windows,ssd,0,512,12.5,8
+acer,249,silver,Used,intel,4.1,windows,hdd/ssd,128,128,15.6,4
+dell,100,other,Used,other,2.2,windows,hdd/ssd,128,128,13.3,8
+dell,1330,black,Very Good - Refurbished,intel,1.8,windows,hdd/ssd,256,256,14,16
+dell,1050,black,Excellent - Refurbished,intel,3.3,windows,hdd/ssd,256,256,14,8
+lenovo,135.9,black,Used,intel,2.4,windows,ssd,0,256,12.1,8
+dell,140,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+lenovo,144.5,other,Used,other,2.3,windows,ssd,0,256,14,8
+hp,329.2,other,Used,other,1.6,windows,hdd/ssd,256,256,13.3,8
+hp,153,silver,Used,intel,1.6,windows,ssd,0,120,14,8
+dell,399,black,Used,intel,2.5,windows,ssd,0,256,15.6,8
+dell,899,black,New,other,1.3,windows,hdd/ssd,2000,2000,17.3,8
+microsoft,510,black,Used,other,1.8,windows,hdd/ssd,256,256,13,16
+lenovo,420,black,Excellent - Refurbished,intel,1.8,windows,hdd/ssd,256,256,13,16
+hp,115.6,other,Used,amd,2.5,windows,ssd,0,256,15.6,8
+dell,97.7,other,Used,other,2.5,windows,hdd,500,0,14,4
+dell,160,black,Used,intel,2.4,windows,ssd,0,256,14,8
+dell,400,black,Used,intel,2.6,windows,hdd/ssd,256,256,15.6,16
+hp,399,silver,Used,intel,3.3,windows,ssd,0,512,15.6,12
+acer,629,black,New,nvidia,2.7,windows,hdd/ssd,512,512,15.6,16
+lenovo,550,silver,Used,intel,1.8,windows,hdd/ssd,256,256,13.5,16
+dell,350,gray,Used,intel,3,windows,hdd/ssd,256,256,14,16
+microsoft,120,other,Used,intel,2.6,windows,hdd/ssd,256,256,12.3,8
+acer,58,black,Used,intel,1.6,chrome,hdd/ssd,32,32,11.6,4
+hp,548,silver,Used,intel,1.7,windows,hdd/ssd,256,256,14,16
+hp,525,silver,Used,nvidia,2.6,windows,hdd/ssd,512,512,17.3,64
+hp,167.8,pink,Used,other,2.3,windows,hdd/ssd,12,256,15.6,12
+microsoft,150,silver,Used,other,2.4,windows,hdd/ssd,128,128,13.5,8
+lenovo,190,black,Used,intel,1.7,windows,hdd/ssd,256,256,14,8
+dell,330,black,Good - Refurbished,intel,2.6,windows,ssd,0,512,14,16
+dell,650,silver,Used,nvidia,2.4,windows,hdd/ssd,32,512,17.3,32
+hp,88.94,other,Used,intel,1,windows,ssd,0,256,11.6,8
+hp,65.94,other,Used,other,2.16,windows,hdd/ssd,500,500,15.6,4
+samsung,53,black,Used,intel,1.6,windows,hdd/ssd,64,64,12.2,4
+dell,10.99,black,Used,intel,2.4,windows,hdd/ssd,128,128,14,8
+hp,37.94,black,Used,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+lenovo,125,black,Used,other,2.5,windows,hdd,500,0,14,8
+lenovo,616.5,gray,Open box,intel,4.7,windows,hdd/ssd,512,512,16,16
+dell,280,black,Excellent - Refurbished,intel,1.9,windows,hdd/ssd,500,500,14,32
+dell,240,black,Excellent - Refurbished,intel,3.9,windows,hdd/ssd,2000,2000,14,64
+dell,97,other,Used,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+hp,780,silver,New,intel,1.7,windows,hdd/ssd,1000,4000,17.3,64
+asus,699,silver,New,other,3.3,windows,hdd/ssd,512,512,14,16
+lenovo,16,black,Used,intel,1.6,chrome,ssd,0,16,11.6,4
+dell,190,other,Used,other,2.1,windows,ssd,0,1000,14,16
+samsung,350,red,Used,intel,1.6,chrome,hdd/ssd,256,256,13.3,8
+lenovo,109,other,Used,other,2.4,chrome,ssd,0,32,13.3,8
+lenovo,339,black,Very Good - Refurbished,nvidia,2.7,windows,ssd,0,1000,15.6,16
+acer,629,black,New,nvidia,2.7,windows,hdd/ssd,512,512,15.6,16
+dell,131.2,other,Very Good - Refurbished,other,1.1,windows,ssd,0,256,10.8,8
+hp,299,black,Very Good - Refurbished,intel,2.7,windows,ssd,0,1000,15.6,16
+dell,825,silver,New,intel,3.9,windows,hdd/ssd,512,512,14,16
+dell,449,black,Used,other,3.8,windows,hdd/ssd,1000,1000,17.3,32
+hp,198,silver,Very Good - Refurbished,intel,1.7,windows,ssd,0,128,14,8
+lenovo,299,black,Used,amd,2.3,windows,hdd/ssd,16,512,14,16
+dell,363,black,Used,intel,1.9,windows,ssd,0,512,14,16
+dell,297,black,Good - Refurbished,intel,2.4,windows,hdd/ssd,512,512,14,8
+lenovo,282,black,Very Good - Refurbished,nvidia,2.6,windows,hdd/ssd,512,512,15.6,16
+lenovo,225,black,Good - Refurbished,intel,1.6,windows,ssd,0,512,14,8
+dell,245,black,Used,intel,1.7,windows,hdd/ssd,1000,1000,14,32
+lenovo,585,black,Very Good - Refurbished,nvidia,3,windows,ssd,0,512,15.6,32
+hp,494.2,other,Used,other,2.4,windows,ssd,0,256,14,16
+hp,439,silver,New,other,2.4,windows,ssd,0,256,14,8
+dell,479,black,Used,intel,2,windows,hdd/ssd,512,512,15.6,16
+dell,388,silver,Used,nvidia,2.6,unknown,hdd/ssd,512,512,15.6,32
+hp,135,silver,Used,nvidia,2.2,windows,hdd/ssd,256,256,15.6,8
+dell,464.5,other,Used,nvidia,2.6,unknown,ssd,0,512,15.6,16
+lenovo,170,black,Used,intel,1.7,windows,hdd/ssd,256,256,15.6,8
+hp,395,other,Used,nvidia,1.8,windows,hdd/ssd,1000,1000,14,32
+dell,930,black,New,other,1.9,windows,hdd/ssd,1000,1000,17.3,16
+dell,171,black,Very Good - Refurbished,intel,1.7,windows,ssd,0,500,14,16
+lenovo,35,black,Used,intel,1,chrome,hdd,16,0,11.6,4
+hp,949.5,black,Certified - Refurbished,nvidia,5.1,windows,ssd,0,512,16.1,16
+microsoft,900,black,Very Good - Refurbished,other,1.8,windows,ssd,0,512,13.5,32
+dell,329.5,black,Used,nvidia,2.2,windows,hdd/ssd,512,512,15.6,32
+samsung,159,silver,Used,other,2.55,windows,hdd/ssd,64,64,14,4
+hp,330,silver,New,intel,4.1,windows,ssd,0,256,15.6,8
+dell,225,black,Used,nvidia,2.7,windows,hdd/ssd,512,512,15.6,16
+lenovo,200,black,Used,other,1.7,windows,hdd/ssd,256,256,13,8
+lenovo,616.5,gray,Open box,intel,4.7,windows,hdd/ssd,512,512,16,16
+lenovo,154,black,Used,intel,2.3,windows,hdd/ssd,512,512,14,16
+hp,380,silver,Used,intel,2.4,windows,hdd/ssd,256,256,15.6,8
+dell,80,multicolor,Used,intel,2.5,linux,ssd,0,240,15.6,8
+dell,800,silver,Used,nvidia,4.6,windows,hdd/ssd,256,256,17,16
+hp,170,silver,Used,other,3,windows,hdd/ssd,512,512,14,8
+lenovo,780,gray,Used,amd,2.7,windows,ssd,0,1000,16,16
+lenovo,400,black,Used,intel,1.6,windows,hdd/ssd,1000,1000,15.6,32
+hp,35,black,Used,other,1.6,unknown,hdd,300,0,10.1,2
+dell,300,black,Used,intel,3.6,windows,ssd,0,1000,14,32
+hp,139,silver,Used,intel,1.1,chrome,hdd/ssd,128,128,14,4
+hp,239.5,other,Very Good - Refurbished,other,1.2,windows,ssd,0,256,12.5,8
+lenovo,200,other,Excellent - Refurbished,intel,2.4,windows,hdd/ssd,512,512,14,20
+lenovo,289,blue,New,intel,3.3,windows,hdd/ssd,1000,1000,15.6,36
+lenovo,280,black,Excellent - Refurbished,intel,1.7,windows,hdd/ssd,500,500,14,16
+hp,180,silver,For parts or not working,other,2.4,unknown,ssd,0,120,13.3,8
+dell,49.5,black,Used,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+microsoft,388.8,other,Used,intel,1.9,windows,ssd,0,512,13.3,16
+lenovo,594.5,blue,Open box,intel,5,windows,hdd/ssd,512,512,16,16
+dell,130,black,Used,other,2.8,windows,ssd,0,128,11.6,4
+dell,185,black,Used,intel,2.4,windows,hdd/ssd,512,512,14,8
+lenovo,199,black,Used,intel,1.6,windows,hdd/ssd,256,256,14,16
+dell,729,silver,Certified - Refurbished,other,2.4,windows,ssd,0,1000,16,32
+microsoft,230,silver,Used,intel,1.1,windows,hdd/ssd,64,64,10.5,4
+lenovo,48,black,Used,intel,2.6,windows,hdd/ssd,500,500,14,8
+hp,550,silver,Used,nvidia,3.3,windows,ssd,0,512,15.6,8
+lenovo,151.1,other,Very Good - Refurbished,other,2.6,windows,ssd,0,256,13.3,8
+hp,150,gray,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+dell,225,black,Used,other,1.9,windows,hdd/ssd,512,512,14,16
+dell,700,silver,Used,intel,3.7,windows,hdd/ssd,1000,1000,16,32
+lenovo,900,gray,Used,nvidia,4.7,windows,hdd/ssd,512,512,16,16
+microsoft,90,other,Used,other,1.9,windows,ssd,0,128,12.3,4
+dell,599,other,Used,other,1.9,windows,hdd/ssd,512,512,11.6,16
+asus,495,blue,Used,intel,4.7,windows,ssd,0,512,15.6,16
+lenovo,100,black,Used,intel,1.6,windows,hdd/ssd,128,128,11.6,4
+acer,650,black,Used,nvidia,4,windows,hdd/ssd,512,512,17.3,8
+hp,365,silver,Very Good - Refurbished,intel,1.8,windows,ssd,0,1000,15.6,32
+dell,455,black,Very Good - Refurbished,intel,4.9,windows,hdd/ssd,1000,1000,14,16
+dell,210.5,other,Very Good - Refurbished,other,1.6,windows,ssd,0,256,14,4
+microsoft,400,other,Used,intel,1.1,unknown,hdd/ssd,128,128,12.3,8
+dell,749,silver,Good - Refurbished,intel,4.8,windows,ssd,0,1000,13.4,32
+dell,40,gray,Used,other,2.6,windows,hdd,250,0,14,4
+lenovo,209,black,Used,intel,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,124.9,silver,Used,amd,1.73,windows,hdd/ssd,120,120,15.4,2
+dell,89.9,other,Good - Refurbished,intel,2.48,chrome,ssd,0,32,11.6,4
+lenovo,219,other,Used,intel,1.7,windows,ssd,0,256,14,8
+lenovo,700,gray,Used,intel,1.3,windows,hdd/ssd,512,512,16,16
+hp,699,silver,New,nvidia,4.4,windows,hdd/ssd,2000,2000,15.6,64
+lenovo,335,gray,Used,intel,1.9,windows,hdd/ssd,512,512,14,16
+lenovo,379,black,New,amd,2.3,windows,hdd/ssd,512,512,13.3,8
+hp,135,silver,Used,nvidia,2.2,windows,hdd/ssd,256,256,15.6,8
+hp,736,silver,New,other,1.7,windows,ssd,0,512,14,16
+hp,350,silver,Open box,intel,2.6,windows,hdd/ssd,256,256,14,16
+dell,120.9,other,Used,other,2,windows,ssd,0,256,12.5,8
+lenovo,149,black,Used,intel,2.4,windows,hdd/ssd,256,256,15,16
+hp,39,gray,Used,intel,1.1,chrome,hdd/ssd,16,16,11.6,4
+lenovo,98,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+hp,645,silver,Used,nvidia,2.6,windows,hdd/ssd,64,1000,17.3,64
+dell,440,black,Used,intel,2.5,linux,hdd/ssd,500,500,15.6,16
+microsoft,563,silver,Open box,intel,3.3,windows,ssd,0,256,13.5,8
+lenovo,160,other,Very Good - Refurbished,intel,2.1,windows,ssd,0,240,15.6,8
+lenovo,259,gray,Used,intel,3,windows,hdd/ssd,128,128,14,4
+hp,170,other,Used,other,2.4,windows,hdd/ssd,256,256,15.6,16
+hp,265.5,silver,Good - Refurbished,amd,1.9,windows,ssd,0,1000,15,16
+lenovo,249,black,Used,intel,3,windows,hdd/ssd,128,128,14,8
+lenovo,380,other,Excellent - Refurbished,other,2.8,windows,hdd/ssd,2000,2000,14,32
+dell,329,black,Used,intel,2.9,windows,hdd/ssd,512,512,15.6,16
+dell,75,other,Used,intel,2.6,windows,ssd,0,128,14,8
+dell,599,gray,Used,other,3,windows,ssd,0,512,15.6,16
+microsoft,529,brown,Used,intel,2.4,windows,ssd,0,512,13.5,8
+hp,495,silver,Very Good - Refurbished,intel,4.2,windows,hdd/ssd,1000,1000,14,32
+lenovo,45,black,Used,intel,1.6,chrome,ssd,0,16,11.6,4
+microsoft,680,silver,Used,intel,2.4,windows,ssd,0,256,12.3,16
+lenovo,234.9,other,Used,other,2.5,windows,ssd,0,256,14,8
+dell,265,black,Used,intel,1.9,windows,ssd,0,512,14,16
+lenovo,164.2,other,Used,intel,2.6,windows,ssd,0,256,14,8
+lenovo,79,gray,Very Good - Refurbished,amd,1.6,chrome,ssd,0,32,14,4
+lenovo,229,other,Used,other,1.7,windows,ssd,0,256,14,16
+lenovo,197.2,other,Very Good - Refurbished,other,1.7,windows,ssd,0,128,12.5,8
+hp,130,gray,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+dell,599,other,New,intel,3,windows,hdd/ssd,16,256,14,16
+hp,1200,black,Used,nvidia,4.7,windows,hdd/ssd,4000,2000,15.6,64
+samsung,350,red,Used,intel,1.6,chrome,hdd/ssd,256,256,13.3,8
+microsoft,175,silver,Used,intel,1.2,unknown,hdd/ssd,128,128,13.5,8
+dell,875,blue,Used,intel,1.7,windows,ssd,0,1000,13.4,32
+dell,360,black,Used,intel,2.4,windows,ssd,0,512,14,16
+acer,103.3,other,Used,intel,2.16,windows,hdd,500,0,11.6,4
+dell,2088,other,New,nvidia,4.7,windows,ssd,0,1000,15.6,16
+dell,139,black,Used,intel,1.7,windows,ssd,0,512,13.3,16
+hp,559,gold,New,intel,4.2,windows,hdd/ssd,2000,2000,14,64
+hp,380,gray,Good - Refurbished,other,4,windows,ssd,0,256,15.6,8
+lenovo,50,silver,Used,other,1.6,windows,hdd/ssd,2,32,14,2
+acer,105.06,other,Used,other,1.6,windows,ssd,0,128,14,8
+lenovo,175,black,Used,intel,1.6,windows,hdd/ssd,256,256,15.6,8
+dell,200,black,Used,intel,2.4,windows,hdd/ssd,512,512,14,16
+hp,285,silver,Used,intel,1.9,windows,ssd,0,256,14,16
+microsoft,520,black,Used,other,1.8,windows,hdd/ssd,256,256,13,16
+acer,79.1,other,Used,nvidia,2.3,windows,hdd,720,0,15.6,8
+dell,230.2,other,Very Good - Refurbished,other,1.6,windows,ssd,0,256,14,8
+lenovo,239,black,Used,amd,2,windows,hdd/ssd,512,512,14,32
+hp,153,silver,Used,intel,1.6,windows,ssd,0,120,14,8
+dell,140,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+dell,160,black,Used,intel,2.4,windows,ssd,0,256,14,8
+lenovo,198,other,Good - Refurbished,other,2.5,windows,ssd,0,256,14,16
+hp,500,other,Open box,intel,1.2,chrome,ssd,0,128,13.5,8
+hp,599,silver,New,other,2.4,windows,hdd/ssd,1000,1000,17.3,32
+dell,200,black,Used,other,2.26,windows,hdd,1000,0,14.1,4
+dell,1800,silver,Excellent - Refurbished,nvidia,3.8,windows,hdd/ssd,32,512,15.6,32
+dell,50,other,Used,other,1.7,windows,ssd,0,120,15.6,4
+hp,180,blue,Used,intel,1.1,chrome,hdd/ssd,64,64,14,4
+dell,49,other,Used,other,1.1,windows,hdd/ssd,64,64,11.6,4
+microsoft,119.94,silver,Used,intel,1.1,windows,hdd/ssd,64,64,10.5,4
+lenovo,199,black,Very Good - Refurbished,other,2.9,windows,ssd,0,512,15.6,16
+hp,360,silver,New,intel,2.4,windows,hdd/ssd,256,256,15.6,8
+hp,199,other,Used,other,2.4,windows,hdd,500,0,14,4
+dell,362,black,Very Good - Refurbished,intel,3.1,windows,hdd/ssd,256,256,15.6,32
+lenovo,149,black,Used,intel,2.4,windows,hdd/ssd,256,256,15,16
+lenovo,140,black,Used,other,2.9,windows,ssd,0,256,14,8
+asus,380,black,Used,nvidia,2.7,windows,hdd/ssd,16,2000,15.6,16
+hp,39,gray,Used,intel,1.1,chrome,hdd/ssd,16,16,11.6,4
+dell,205,black,Very Good - Refurbished,intel,1.7,windows,ssd,0,512,14,16
+hp,170,other,Used,other,2.4,windows,hdd/ssd,256,256,15.6,16
+dell,825,silver,New,intel,3.9,windows,hdd/ssd,512,512,14,16
+dell,449,black,Used,other,3.8,windows,hdd/ssd,1000,1000,17.3,32
+hp,198,silver,Very Good - Refurbished,intel,1.7,windows,ssd,0,128,14,8
+hp,265.5,silver,Good - Refurbished,amd,1.9,windows,ssd,0,1000,15,16
+lenovo,299,black,Used,amd,2.3,windows,hdd/ssd,16,512,14,16
+dell,297,black,Good - Refurbished,intel,2.4,windows,hdd/ssd,512,512,14,8
+dell,363,black,Used,intel,1.9,windows,ssd,0,512,14,16
+lenovo,585,black,Very Good - Refurbished,nvidia,3,windows,ssd,0,512,15.6,32
+dell,150,black,Used,other,1.9,unknown,hdd/ssd,256,500,14,16
+hp,199,silver,Used,intel,2.6,windows,hdd/ssd,256,256,14,8
+lenovo,184.5,other,Good - Refurbished,intel,2.6,windows,ssd,0,128,14,8
+lenovo,450,gray,Used,intel,1.3,windows,ssd,0,512,14,8
+acer,89.94,other,Used,other,1.7,windows,hdd/ssd,256,256,11.6,4
+lenovo,280,gray,Used,intel,1.2,windows,ssd,0,256,15.6,8
+dell,175,silver,Used,intel,3,windows,hdd/ssd,500,500,14,8
+lenovo,42,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+lenovo,123,silver,Used,other,2.7,windows,hdd,500,0,14.1,8
+dell,68,black,Used,other,2.48,chrome,hdd/ssd,16,16,11.6,4
+dell,999,black,New,other,1.9,windows,hdd/ssd,2000,2000,17.3,16
+dell,29.98,black,For parts or not working,other,2.8,windows,hdd,80,0,14,2
+lenovo,535,gray,Used,intel,1.7,windows,ssd,0,512,14,16
+lenovo,600,gray,Used,intel,3,windows,hdd/ssd,512,512,14,16
+dell,980,black,Open box,nvidia,2.3,windows,ssd,0,512,16,16
+lenovo,180,black,Used,intel,2.6,linux,hdd/ssd,500,500,14,8
+hp,40,silver,Used,other,2.2,unknown,ssd,0,128,14,4
+hp,199.9,silver,Used,intel,2.6,windows,hdd/ssd,512,512,14,16
+lenovo,69,black,Good - Refurbished,other,2.1,windows,ssd,0,32,11.6,4
+lenovo,100,black,Used,other,1.1,chrome,hdd/ssd,32,64,11.6,4
+hp,629.5,silver,Certified - Refurbished,intel,4.7,windows,ssd,0,512,17.3,16
+hp,147,black,Used,intel,2.8,windows,hdd/ssd,256,512,15.6,16
+lenovo,164.2,other,Used,other,2.4,windows,ssd,0,256,14,8
+dell,170,black,Used,intel,1.9,windows,hdd/ssd,256,256,12.5,8
+hp,377.5,silver,Open box,amd,3.3,windows,hdd,512,0,17.3,8
+lenovo,260,black,Used,intel,1.9,windows,hdd/ssd,256,512,14,8
+dell,237.5,gray,Used,other,1.66,windows,hdd/ssd,256,256,15,4
+lenovo,176,black,Used,other,1.6,windows,hdd/ssd,256,256,14,16
+dell,175,black,Used,other,1.6,windows,hdd/ssd,16,256,13,16
+acer,200,other,Used,other,1.1,windows,hdd/ssd,128,128,13.3,4
+dell,263.2,other,Used,other,1.7,windows,ssd,0,256,12.5,16
+acer,55,black,Used,intel,1.1,chrome,hdd/ssd,32,32,11.6,4
+dell,800,gray,Excellent - Refurbished,intel,1.1,windows,ssd,0,512,13.3,16
+lenovo,176,other,Used,intel,1.7,windows,ssd,0,256,14,8
+hp,398,silver,New,other,2.6,windows,hdd/ssd,512,512,14,16
+lenovo,50,black,Used,intel,1.83,chrome,hdd/ssd,16,16,11.6,4
+lenovo,145,black,Used,other,2.5,windows,hdd,500,0,14,8
+lenovo,190,black,Used,nvidia,2.6,windows,hdd/ssd,500,500,15.6,24
+lenovo,66.5,black,Excellent - Refurbished,other,1.6,chrome,ssd,0,16,11.6,4
+lenovo,180,black,Used,intel,3.6,windows,hdd/ssd,8,512,14.1,12
+hp,300,silver,Used,intel,1.6,windows,hdd,12,0,17,12
+hp,140,silver,Used,other,2.5,windows,hdd/ssd,500,500,15,8
+dell,300,other,Used,other,2.3,unknown,hdd/ssd,240,240,15.6,8
+dell,279,black,Very Good - Refurbished,intel,1.2,windows,hdd/ssd,1000,128,15.6,16
+hp,276.5,other,Very Good - Refurbished,other,1.7,windows,ssd,0,256,13,8
+lenovo,39.94,black,Used,intel,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,155,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+hp,650,gray,New,intel,2.3,windows,hdd/ssd,256,256,17.3,8
+lenovo,360,black,Very Good - Refurbished,other,1.6,windows,hdd/ssd,512,500,15.6,32
+hp,250,silver,Used,intel,2.6,windows,hdd/ssd,500,500,14,32
+dell,279,black,Used,intel,2.6,windows,hdd/ssd,256,256,14,8
+lenovo,51,black,Used,intel,2.6,chrome,hdd/ssd,32,32,11.6,4
+dell,1450,black,Excellent - Refurbished,intel,2.6,windows,hdd/ssd,256,256,13.3,16
+dell,159.8,orange,Used,other,2.6,windows,hdd/ssd,256,256,14,16
+hp,330,silver,New,intel,1.2,windows,hdd/ssd,256,256,15.6,8
+dell,319,silver,Used,intel,1.6,windows,ssd,0,256,12.3,8
+hp,570,silver,Excellent - Refurbished,intel,1.8,windows,ssd,0,256,13.3,16
+dell,141,black,Used,intel,2.2,windows,hdd/ssd,128,128,13.3,8
+dell,960,silver,New,nvidia,2.7,windows,hdd/ssd,512,512,15.6,32
+dell,252,other,Good - Refurbished,intel,2.6,windows,hdd,1000,0,15,32
+dell,369,other,Used,other,2.4,windows,ssd,0,256,14,8
+lenovo,219,other,Used,intel,1.7,windows,ssd,0,256,14,8
+dell,220,gray,Good - Refurbished,intel,1.6,windows,ssd,0,512,13,16
+lenovo,370,black,Very Good - Refurbished,intel,2.6,windows,hdd/ssd,512,512,15.6,32
+dell,929,silver,Used,nvidia,2.4,windows,ssd,0,1000,16,16
+lenovo,419,other,Used,other,1.7,windows,ssd,0,512,14,32
+lenovo,300,black,Used,intel,4.6,windows,ssd,0,1000,14,8
+lenovo,299,black,Very Good - Refurbished,nvidia,2.9,windows,ssd,0,512,15.6,16
+lenovo,87,multicolor,For parts or not working,intel,1.2,windows,ssd,0,256,13,8
+lenovo,82.44,other,Used,other,3.1,windows,hdd/ssd,128,128,13.3,4
+hp,99.94,gray,Used,other,2.5,unknown,hdd,320,0,14,4
+lenovo,184.5,other,Good - Refurbished,intel,2.6,windows,ssd,0,128,14,8
+lenovo,225,black,Used,other,2.2,unknown,hdd/ssd,512,512,14,16
+dell,290,black,Used,intel,2.9,windows,hdd/ssd,512,512,15.6,32
+samsung,400,gray,Used,intel,1.6,chrome,ssd,0,256,13.3,8
+hp,250,black,Used,intel,2.7,windows,hdd/ssd,256,256,16,8
+lenovo,139,brown,Used,other,2.1,windows,hdd/ssd,256,256,15.6,8
+hp,70,black,Used,other,2.16,chrome,hdd/ssd,16,16,14,4
+hp,170,red,Used,intel,2.4,windows,hdd/ssd,128,128,15.6,4
+dell,100,black,Used,intel,2.4,windows,hdd/ssd,512,512,14,16
+lenovo,55,black,Used,intel,2.6,chrome,hdd/ssd,32,32,11.6,4
+hp,120,silver,Used,intel,2.3,windows,hdd/ssd,512,512,13,16
+dell,89,silver,Used,other,2.2,windows,hdd,80,0,14,2
+dell,180,black,Used,other,2.3,windows,hdd/ssd,256,256,14,16
+asus,520,blue,Used,intel,4.7,windows,ssd,0,512,15.6,16
+acer,60,black,Very Good - Refurbished,other,1.6,linux,hdd/ssd,32,32,11.6,4
+acer,60,black,Used,other,1.6,chrome,ssd,0,16,11.6,4
+dell,159,black,Used,intel,3.4,windows,hdd/ssd,256,256,14,16
+hp,180,silver,Very Good - Refurbished,intel,2.4,windows,hdd/ssd,256,256,14,16
+lg,649,gray,Used,intel,2.9,windows,ssd,0,512,17,16
+hp,55,brown,Used,other,1.66,windows,hdd,1,0,10.1,1
+lenovo,230,black,Used,amd,2.1,windows,ssd,0,256,14,16
+lenovo,740,black,Excellent - Refurbished,amd,3.3,windows,ssd,0,512,14,16
+dell,599,other,Used,other,1.9,windows,hdd/ssd,512,512,11.6,16
+lenovo,280,black,Excellent - Refurbished,intel,1.7,windows,hdd/ssd,500,500,14,16
+lenovo,655,gray,Used,nvidia,3.3,windows,ssd,0,1000,14.5,32
+dell,150,black,Used,other,2.4,windows,ssd,0,128,11,4
+hp,370,silver,New,intel,2.4,windows,hdd/ssd,256,256,15.6,8
+dell,80,black,Used,intel,2.5,windows,hdd,160,0,14.1,4
+acer,399,silver,New,intel,1.1,windows,hdd/ssd,1000,1000,15.6,20
+hp,599,silver,Very Good - Refurbished,intel,2.4,unknown,ssd,0,128,14,8
+microsoft,355,platinum,Used,other,1.1,windows,ssd,0,256,12.3,8
+dell,199,black,Used,intel,2.3,windows,ssd,0,250,14,12
+acer,80,black,Excellent - Refurbished,other,1.1,chrome,hdd/ssd,32,32,11.6,4
+dell,369,black,Very Good - Refurbished,intel,3.6,windows,hdd/ssd,512,512,14,16
+hp,56,black,Used,intel,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,284,gray,Used,intel,2,windows,hdd/ssd,256,256,15.4,4
+hp,120,black,Used,amd,2,windows,hdd,1000,0,15,8
+dell,280,other,Very Good - Refurbished,intel,3,windows,ssd,0,500,15.6,32
+lenovo,105,black,Used,intel,2.6,windows,hdd/ssd,256,256,14.5,8
+dell,750,black,New,other,2.5,windows,hdd/ssd,512,512,15.6,16
+dell,98,black,Used,intel,1.6,unknown,hdd/ssd,500,256,14,8
+lenovo,309.5,other,Very Good - Refurbished,other,1.8,windows,ssd,0,256,14,16
+acer,40,black,Used,intel,1.6,chrome,hdd/ssd,32,32,11.6,4
+dell,229,black,Used,intel,2.7,windows,hdd/ssd,1000,1000,14,16
+lenovo,42,black,Used,other,2,chrome,hdd/ssd,16,16,11.6,4
+dell,350,black,Used,intel,2.6,windows,ssd,0,128,12.5,8
+lenovo,660,other,New,amd,2,windows,hdd/ssd,1000,1000,13,16
+dell,368,other,Very Good - Refurbished,amd,1.9,windows,ssd,0,1000,15.6,16
+hp,200,gray,Used,amd,1.6,chrome,ssd,0,32,14,4
+dell,230,black,Used,intel,3.9,windows,hdd/ssd,512,512,14,32
+lenovo,110,black,Open box,amd,1.1,windows,hdd/ssd,64,64,11.5,64
+dell,105,black,Used,other,2.6,unknown,hdd/ssd,256,256,14,8
+lenovo,85,black,Used,intel,2.66,windows,hdd,320,0,15.6,4
+samsung,130,black,Used,intel,1.6,windows,hdd/ssd,128,128,11.6,4
+lenovo,382,other,Used,intel,2.4,windows,ssd,0,512,13.3,8
+asus,349,blue,Used,intel,1.5,windows,hdd/ssd,512,512,17.3,8
+hp,325,silver,Used,amd,2.8,windows,hdd/ssd,512,512,15.6,16
+lenovo,305,black,Used,other,2,windows,hdd/ssd,256,256,14,8
+dell,103.4,black,Used,intel,2,windows,hdd,500,0,15.6,4
+lenovo,299,black,Used,intel,1.7,windows,hdd/ssd,1000,1000,14,32
+lenovo,490,gray,Used,intel,1.8,windows,hdd/ssd,1000,1000,14,16
+dell,234.5,gray,Used,intel,2.5,windows,ssd,0,128,14,16
+dell,480,black,Used,other,4.2,windows,hdd/ssd,2000,2000,14,64
+lenovo,381,gray,Used,intel,2.4,windows,ssd,0,256,15.6,12
+acer,72,black,Used,other,1.6,chrome,ssd,0,16,11.6,4
+dell,300,black,Used,intel,1.9,windows,ssd,0,500,12.5,16
+lenovo,115,black,Used,other,2.16,chrome,hdd/ssd,16,16,11.6,4
+hp,281,silver,Used,intel,2.9,windows,hdd/ssd,128,128,14,4
+lenovo,51,black,Used,intel,1.6,chrome,hdd/ssd,16,16,14,4
+acer,199,other,Used,other,2.3,windows,hdd/ssd,256,256,12,8
+dell,159,black,Used,intel,1.7,windows,ssd,0,2000,13.3,16
+dell,120,black,Used,intel,3.6,windows,hdd/ssd,256,256,13.3,8
+dell,527,other,Very Good - Refurbished,other,1.7,windows,ssd,0,256,14,16
+dell,549,gray,Used,intel,1.1,chrome,hdd/ssd,32,32,11.6,4
+hp,170,silver,Used,intel,2.6,windows,hdd/ssd,8,256,15.6,8
+dell,600,black,Used,intel,1.7,windows,ssd,0,512,15.6,16
+dell,40,black,Used,other,2.6,windows,hdd,320,0,14,4
+lenovo,400,other,Excellent - Refurbished,other,2.8,windows,hdd/ssd,512,1000,14,32
+hp,107.56,other,Used,other,1.5,windows,hdd/ssd,128,128,15.6,8
+dell,229.6,gray,Open box,other,2.7,windows,ssd,0,128,11.6,4
+asus,27.98,white,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+lenovo,155,black,Used,other,1.6,unknown,hdd/ssd,256,256,12.5,8
+dell,160,black,Used,other,2.2,windows,ssd,0,256,14,8
+dell,280,black,Used,intel,2.6,windows,hdd/ssd,512,512,14,8
+microsoft,799,silver,Open box,other,4.8,windows,hdd/ssd,256,256,13,16
+asus,90,black,Used,intel,2.2,windows,hdd,160,0,15.6,8
+acer,29,gray,Used,other,1,chrome,hdd/ssd,16,16,11.6,4
+hp,389,black,Used,nvidia,2.7,windows,ssd,0,512,15.6,16
+hp,506,other,Very Good - Refurbished,intel,4,windows,ssd,0,512,15.6,16
+asus,600,black,Used,nvidia,2.6,windows,hdd/ssd,1000,1000,15.6,16
+acer,199,other,Used,other,2.3,windows,hdd/ssd,256,256,12,8
+lenovo,550,blue,Open box,intel,4.7,windows,hdd/ssd,512,512,15.6,12
+dell,90,black,Used,intel,3.9,unknown,hdd/ssd,512,512,15.6,16
+dell,126.5,other,Very Good - Refurbished,intel,2.5,windows,hdd,500,0,15,8
+acer,430,black,Used,amd,2.1,windows,hdd/ssd,256,256,15.6,8
+lenovo,362.2,other,Certified - Refurbished,intel,4.2,windows,hdd/ssd,512,512,13.3,16
+hp,443,other,Used,amd,1.8,windows,ssd,0,1000,14,32
+acer,506.2,other,Used,amd,2.1,windows,ssd,0,256,15.6,8
+lenovo,400,other,Excellent - Refurbished,other,2.8,windows,hdd/ssd,512,1000,14,32
+hp,239.1,other,Used,amd,1.6,windows,hdd/ssd,256,256,13.3,8
+dell,442.8,other,Good - Refurbished,intel,4.6,windows,ssd,0,512,13.3,16
+lenovo,246.8,other,Used,intel,3,windows,ssd,0,2000,14,32
+dell,340,other,Used,intel,1.9,windows,hdd/ssd,1000,1000,15.6,32
+samsung,49,black,Used,intel,1.6,chrome,hdd/ssd,16,16,11.6,2
+hp,355.8,other,Used,intel,4.6,windows,ssd,0,512,13.3,16
+dell,750,gray,Open box,other,1.7,windows,hdd/ssd,256,256,14,8
+lenovo,170.9,other,Used,other,1.6,windows,ssd,0,256,15.6,8
+dell,110,blue,Used,intel,2.6,windows,hdd/ssd,128,128,12,8
+hp,50,purple,Used,other,1.6,windows,ssd,0,32,11.6,4
+hp,114.94,black,Used,other,1.1,windows,hdd,500,0,15.6,4
+dell,79.94,gray,Used,intel,2.7,windows,hdd/ssd,240,256,15.6,8
+lenovo,179.5,gray,Used,intel,2.4,windows,hdd/ssd,128,128,14,8
+lenovo,400,other,Very Good - Refurbished,other,2.8,windows,hdd/ssd,2000,2000,14,32
+hp,220,black,Open box,intel,1.1,windows,ssd,0,128,14,8
+microsoft,599,black,Used,other,1.8,windows,ssd,0,256,13,16
+dell,269,silver,Used,intel,2.4,windows,ssd,0,512,14,8
+hp,300,silver,Used,intel,2.4,windows,hdd/ssd,256,256,14,8
+dell,330,other,Good - Refurbished,other,1.9,windows,hdd/ssd,512,512,13.3,16
+hp,210,other,Very Good - Refurbished,other,2.5,windows,hdd/ssd,800,800,14,16
+dell,90,black,Used,intel,2.5,windows,hdd,160,0,14.1,4
+dell,248.5,gray,Used,intel,1.7,windows,ssd,0,120,13.3,8
+hp,210,silver,Used,other,2.6,windows,hdd/ssd,256,256,11.6,8
+asus,806,blue,Used,nvidia,3.2,windows,hdd/ssd,1000,1000,14,16
+lenovo,699,black,Excellent - Refurbished,other,3,windows,ssd,0,512,14,16
+hp,99,black,Used,amd,2,windows,hdd,750,0,15.6,4
+dell,139,gray,Good - Refurbished,other,2.5,windows,ssd,0,128,14,8
+lenovo,45,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,237.5,gray,Used,other,1.66,windows,hdd,500,0,15,4
+dell,290,other,Very Good - Refurbished,other,1.9,windows,hdd/ssd,512,512,13,16
+dell,140,black,Used,other,1.7,windows,hdd/ssd,512,256,14,16
+dell,159.8,orange,Used,other,2.6,windows,hdd/ssd,256,256,14,16
+acer,249.9,silver,Used,intel,4.1,windows,hdd/ssd,128,128,15.6,4
+hp,199,black,Used,intel,2.2,windows,hdd/ssd,256,256,15.6,16
+lenovo,570,blue,Open box,intel,4.7,windows,hdd/ssd,512,512,15.6,12
+dell,167,other,Used,intel,2.6,windows,hdd/ssd,250,240,12.5,16
+samsung,38,black,Used,intel,2.5,chrome,hdd/ssd,16,16,11.6,4
+asus,1617,black,Used,intel,2.3,windows,ssd,0,1000,16,16
+dell,107.94,black,Used,intel,2.4,windows,ssd,0,256,14,8
+hp,54,black,Used,intel,1.6,chrome,hdd/ssd,16,16,11.6,4
+asus,295,gray,Used,nvidia,2.4,windows,hdd/ssd,500,500,15,16
+hp,720,black,New,intel,5,windows,ssd,0,4000,15.6,64
+dell,190,other,Used,other,2.1,windows,ssd,0,1000,14,16
+hp,650,black,Used,intel,1.8,windows,ssd,0,512,15.6,16
+dell,90,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+asus,42,gray,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+microsoft,739,black,Used,amd,2,windows,hdd/ssd,512,512,15,8
+lenovo,95,black,Used,intel,2.4,windows,hdd/ssd,465,256,14,8
+lenovo,630,gray,Certified - Refurbished,intel,1.3,windows,ssd,0,512,15.6,16
+dell,150,black,Used,intel,2.4,windows,hdd/ssd,128,512,14,16
+dell,85,black,Used,other,2.3,windows,ssd,0,128,12.5,8
+hp,699.5,blue,Very Good - Refurbished,intel,4.1,windows,ssd,0,512,15.6,16
+dell,87,other,Used,intel,2.4,windows,ssd,0,512,14,8
+lenovo,600,gray,Used,nvidia,3.3,windows,hdd/ssd,256,256,15.6,8
+lenovo,84.94,black,Used,other,2.6,windows,hdd,500,0,14,8
+hp,454.2,blue,Open box,amd,4.3,windows,hdd/ssd,512,512,15.6,8
+dell,489,silver,Very Good - Refurbished,nvidia,1.8,windows,hdd,2000,0,17.3,16
+hp,27.98,black,Used,other,1.66,unknown,hdd,1000,0,10.1,1
+lenovo,225,black,Used,other,1.7,windows,hdd/ssd,256,256,15,4
+lenovo,1012.5,other,Used,nvidia,2.5,windows,hdd/ssd,512,512,15.6,8
+lenovo,150,black,Used,intel,1.2,unknown,hdd/ssd,256,256,12,8
+dell,144.9,black,Good - Refurbished,intel,2.6,windows,ssd,0,256,14,8
+dell,375,black,Used,intel,1.7,windows,hdd/ssd,256,256,12,8
+dell,35,black,Used,other,1.4,chrome,hdd/ssd,16,16,11.6,4
+dell,600,black,Used,intel,2.4,windows,hdd/ssd,2000,2000,17.3,16
+dell,420,other,Very Good - Refurbished,intel,1.9,windows,hdd/ssd,1000,1000,15.6,32
+lenovo,188,black,Used,intel,1.6,windows,hdd/ssd,256,256,14,8
+hp,100,black,Used,intel,2.4,windows,hdd/ssd,500,128,15.6,8
+dell,230,black,Good - Refurbished,other,2.4,windows,hdd/ssd,1000,1000,14,16
+dell,100,black,Used,other,2.8,windows,hdd/ssd,64,64,11,16
+lenovo,560,black,Open box,other,2.8,windows,hdd/ssd,512,512,15.6,16
+dell,299,bronze,Good - Refurbished,amd,2.1,windows,hdd/ssd,256,256,14,8
+dell,249,other,Used,intel,1.7,windows,hdd/ssd,256,256,13.3,8
+dell,157.5,black,Used,other,2.4,windows,ssd,0,512,12.5,12
+lenovo,911,black,Used,intel,1.6,windows,ssd,0,256,15.6,8
+acer,273,silver,Open box,other,3.5,windows,hdd/ssd,128,128,15.6,4
+lenovo,350,other,Used,amd,1.7,unknown,hdd/ssd,512,512,14,16
+lenovo,160,other,Used,other,2.6,windows,hdd/ssd,256,256,14,8
+dell,90,black,Used,intel,1.6,windows,hdd,500,0,15.6,4
+lenovo,190,black,Used,intel,2.4,windows,ssd,0,512,14,16
+dell,180,black,Used,intel,1.9,windows,hdd/ssd,512,512,14,16
+dell,87.3,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+dell,80,other,Used,intel,2.3,unknown,ssd,0,256,13.3,8
+lenovo,90,black,Used,intel,3.3,windows,ssd,0,512,14,16
+hp,370,silver,New,intel,2.4,windows,hdd/ssd,256,256,15.6,8
+hp,200,multicolor,Good - Refurbished,intel,1.8,windows,hdd/ssd,256,256,15.6,16
+lenovo,170,other,Excellent - Refurbished,intel,2.4,windows,hdd/ssd,256,256,14,12
+lenovo,370,black,Used,amd,1.7,windows,hdd/ssd,512,512,14,32
+microsoft,198,silver,Used,intel,1.7,windows,ssd,0,256,13.5,8
+acer,70,black,Very Good - Refurbished,other,1.6,linux,hdd/ssd,32,32,11.6,4
+dell,316,other,Used,intel,1.6,windows,ssd,0,256,14,16
+lg,425,black,Used,intel,4.7,windows,hdd/ssd,512,512,14,16
+acer,50,gray,Good - Refurbished,intel,1.4,chrome,hdd/ssd,16,16,11.6,4
+lenovo,150,black,Used,intel,2.1,windows,hdd/ssd,500,128,14,8
+microsoft,270,gray,Used,intel,1.9,windows,ssd,0,512,12.3,16
+hp,30.48,black,Used,other,1.6,chrome,hdd/ssd,16,16,11.6,4
+dell,440,silver,Used,other,2.6,windows,ssd,0,1000,15.6,16
+lenovo,200,other,Used,other,2.1,windows,hdd,256,0,14,8
+lenovo,230,black,Used,intel,2.6,windows,ssd,0,512,14,16
+microsoft,255,black,Used,intel,1.1,windows,hdd/ssd,128,128,12.3,8
+asus,780.5,black,Used,nvidia,2.6,unknown,hdd,16,0,15.6,16
+lenovo,250,gray,Good - Refurbished,intel,1.6,windows,hdd,1000,0,15.6,16
+hp,49,other,Used,intel,1.4,chrome,hdd/ssd,16,16,14,4
+hp,519.5,blue,Used,amd,4.2,windows,hdd/ssd,512,512,14,16
+dell,349,blue,Very Good - Refurbished,intel,1.2,windows,ssd,0,512,15.6,12
+hp,120,silver,Used,amd,1.8,windows,hdd/ssd,512,512,14,8
+lg,499,white,Used,intel,3,windows,hdd/ssd,256,256,14,8
+acer,129,black,Used,other,2.48,chrome,hdd,32,0,11.6,4
+dell,21.95,other,Used,amd,2,windows,hdd/ssd,500,180,15.4,4
+dell,199,silver,Used,other,1.7,windows,hdd/ssd,512,512,15.6,16
+microsoft,570,black,Used,other,3,windows,ssd,0,256,13,16
+hp,115,black,For parts or not working,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+lenovo,300,silver,Used,other,2.1,windows,hdd/ssd,16,476,14,16
+hp,110,silver,Used,intel,2.4,windows,hdd,500,0,15.6,8
+lenovo,163.2,black,Used,intel,2.6,windows,hdd,500,0,15.6,8
+dell,240,black,Used,intel,2.4,windows,hdd,8,0,14,8
+hp,69.9,other,Used,other,2.4,unknown,ssd,0,256,13.9,8
+hp,479.5,gray,Certified - Refurbished,intel,4.6,windows,ssd,0,256,15.6,8
+dell,1900,black,Excellent - Refurbished,intel,1.8,windows,hdd/ssd,1000,1000,14,32
+dell,360,gray,Excellent - Refurbished,intel,1.6,windows,ssd,0,512,13.3,16
+hp,259,red,Used,intel,1.8,windows,hdd/ssd,128,128,15.6,4
+hp,179,other,Used,other,2.2,windows,hdd,750,0,15.6,8
+lenovo,231,black,Used,intel,2.4,windows,hdd/ssd,512,256,14,16
+dell,1050,silver,Excellent - Refurbished,intel,2.8,windows,hdd/ssd,256,256,15.6,16
+dell,200,black,Used,other,1.6,windows,hdd/ssd,512,512,13.3,16
+dell,380,silver,Used,amd,4.3,windows,hdd/ssd,512,512,14,16
+hp,325,silver,New,intel,4.1,windows,hdd/ssd,256,256,15.6,8
+hp,44,other,Used,intel,1.6,chrome,hdd/ssd,32,32,11.6,4
+hp,300,silver,Used,intel,4.3,windows,hdd/ssd,256,256,15.6,16
+samsung,175,silver,Used,intel,2.5,windows,ssd,0,128,14,4
+lenovo,119,black,Used,intel,2.4,windows,ssd,0,128,14,12
+dell,179,black,Very Good - Refurbished,other,2.2,windows,hdd,1000,0,15.6,6
+hp,415,other,Used,intel,1.9,windows,hdd/ssd,1000,128,13,16
+dell,209,other,Used,nvidia,2.7,windows,ssd,0,256,15.6,16
+dell,750,other,Open box,other,2.6,windows,hdd/ssd,256,256,14,32
+dell,90,black,Used,intel,1.6,windows,hdd,500,0,15.6,4
+lg,310,white,Used,intel,1.2,windows,ssd,0,256,14,8
+dell,45,black,Used,amd,2.16,chrome,hdd/ssd,4,16,11.6,4
+hp,319.5,silver,Certified - Refurbished,amd,4.1,windows,ssd,0,256,17,8
+lenovo,150,black,Used,other,2.5,windows,ssd,0,256,15.6,16
+hp,315,gray,New,intel,4.1,windows,hdd/ssd,256,256,15.6,8
+hp,650,gray,New,intel,2.3,windows,hdd/ssd,256,256,17.3,8
+lenovo,680,silver,Certified - Refurbished,amd,2,windows,ssd,0,1000,15.6,40
+dell,350,gray,Used,intel,2.8,windows,hdd/ssd,512,512,14,16
+dell,399,silver,Used,other,1.6,windows,hdd/ssd,512,512,15.6,8
+lenovo,56.06,black,Used,intel,2.9,windows,hdd/ssd,240,240,14,12
+hp,330,silver,New,intel,1.2,windows,hdd/ssd,256,256,15.6,8
+lenovo,699,black,New,amd,4.3,windows,hdd/ssd,2000,2000,15.6,40
+dell,599,other,New,intel,3,windows,hdd/ssd,16,256,14,16
+hp,110,silver,Used,intel,2.4,windows,hdd/ssd,256,256,14,16
+dell,600,other,Excellent - Refurbished,other,3.1,unknown,hdd/ssd,1000,1000,17.3,32
+hp,320,silver,Used,intel,2,windows,hdd/ssd,256,256,14,8
+hp,150,gray,Used,intel,1.6,chrome,ssd,0,16,11.6,4
+dell,425,gray,Used,intel,2.5,windows,hdd/ssd,500,500,17.3,16
+dell,53,black,Very Good - Refurbished,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+hp,243,silver,Used,intel,2.1,windows,hdd/ssd,256,256,14,8
+dell,740,gray,Open box,intel,1.6,windows,ssd,0,512,15.6,16
+hp,749.5,silver,Used,intel,1.8,windows,hdd/ssd,512,512,14,16
+hp,260,other,Very Good - Refurbished,other,2.4,windows,hdd/ssd,512,512,14,16
+lenovo,149,black,Used,other,2.6,windows,hdd/ssd,256,256,13.3,16
+dell,450,other,Good - Refurbished,intel,2.6,windows,ssd,0,1000,11.6,16
+hp,670,silver,Open box,intel,2.1,windows,ssd,0,1000,17.3,16
+dell,140,black,Used,intel,3.9,windows,hdd/ssd,512,512,14,32
+dell,199,black,Very Good - Refurbished,intel,1.9,windows,hdd/ssd,256,256,14,16
+lenovo,180,other,Very Good - Refurbished,other,2.6,windows,hdd/ssd,512,512,14,12
+hp,30,other,Used,other,2.1,linux,hdd/ssd,160,250,15.4,2
+dell,189,other,Good - Refurbished,intel,2.7,windows,ssd,0,512,14,8
+dell,234.5,gray,Used,intel,2.5,windows,ssd,0,128,14,16
+lg,850,blue,Used,intel,2.2,windows,ssd,0,512,15.6,16
+acer,435,black,Used,nvidia,2.6,windows,hdd/ssd,256,256,15.6,16
+lenovo,530,black,Excellent - Refurbished,intel,3,windows,ssd,0,256,13.3,16
+dell,575,multicolor,Open box,other,2.8,windows,ssd,0,1000,13.3,8
+microsoft,255,black,Used,intel,1.1,windows,hdd/ssd,128,128,12.3,8
+dell,21.95,other,Used,amd,2,windows,hdd/ssd,500,180,15.4,4
+acer,399,gray,New,intel,3,windows,hdd/ssd,256,256,17.3,8
+lenovo,800,green,Used,amd,2,windows,ssd,0,1000,13.3,16
+dell,216,other,Good - Refurbished,nvidia,2.7,windows,ssd,0,512,15.6,16
+lenovo,200,multicolor,Used,mali,2,chrome,ssd,0,128,10.1,4
+dell,300,gray,Used,nvidia,2.8,windows,hdd/ssd,1000,256,15,8
+hp,120,silver,Used,amd,1.8,windows,hdd/ssd,512,512,14,8
+dell,300,silver,Used,other,2.1,windows,hdd/ssd,128,128,13.3,8
+lenovo,720,black,Used,intel,2.1,windows,hdd/ssd,256,256,13,16
+hp,125,other,Used,other,2.6,unknown,hdd/ssd,500,500,15.5,16
+dell,103.4,black,Used,intel,2,windows,hdd,500,0,15.6,4
+dell,80,black,Used,intel,3,windows,hdd,500,0,14,4
+lenovo,112.5,black,Used,other,2.9,windows,hdd,500,0,14,8
+dell,400,black,Excellent - Refurbished,other,2.8,windows,hdd/ssd,1000,1000,15.6,32
+dell,363,black,Used,intel,1.9,windows,hdd/ssd,256,256,14,16
+dell,100,black,For parts or not working,intel,2.3,unknown,hdd,8,0,14,8
+microsoft,510,black,Open box,other,3,windows,hdd/ssd,8,128,13,8
+hp,220,black,Open box,intel,1.1,windows,ssd,0,128,14,8
+hp,100,black,Used,intel,2.6,windows,ssd,0,256,15.6,8
+hp,325,silver,Used,amd,2,windows,ssd,0,512,15.6,16
+hp,355.8,other,Used,intel,4.6,windows,ssd,0,512,13.3,16
+lenovo,170.9,other,Used,other,1.6,windows,ssd,0,256,15.6,8
+hp,619,other,Used,intel,1.3,windows,hdd/ssd,256,256,15.6,8
+lenovo,100,gray,Used,amd,2.2,windows,ssd,0,32,14,16
+lenovo,445,black,Excellent - Refurbished,nvidia,1.8,windows,ssd,0,512,15.6,32
+lg,649,silver,Used,intel,3.4,windows,ssd,0,1000,16,16
+acer,350,silver,Used,intel,1.1,windows,ssd,0,256,13.5,8
+dell,360,black,Used,intel,1,windows,hdd/ssd,256,256,15.6,8
+dell,199,other,Used,other,2.7,windows,hdd/ssd,512,512,15.6,16
+lenovo,125.94,black,Good - Refurbished,intel,2.2,windows,hdd,500,0,14,4
+dell,119,other,Used,other,1.9,windows,ssd,0,256,14,8
+dell,675,black,Open box,intel,4.7,windows,ssd,0,512,15.6,16
+lenovo,160,gray,For parts or not working,intel,1.1,windows,hdd/ssd,128,128,14,4
+lenovo,490,black,Used,intel,1.2,windows,hdd/ssd,256,256,15.6,8
+dell,1483,black,New,intel,2.4,windows,hdd/ssd,512,512,14,16
+dell,129,black,Used,other,2.4,windows,ssd,0,256,15,8
+dell,200,silver,Used,intel,2.5,unknown,hdd/ssd,1000,1000,15.6,8
+microsoft,100,silver,For parts or not working,intel,1.7,windows,hdd/ssd,256,256,13.5,8
+hp,260,silver,Used,intel,2,windows,ssd,0,256,17.3,8
+hp,62.94,black,Used,intel,2.3,windows,hdd/ssd,1000,1000,15.6,6
+hp,443,other,Used,amd,1.8,windows,ssd,0,1000,14,32
+lenovo,100,gray,Used,amd,2.2,windows,ssd,0,32,14,16
+dell,550,gray,Used,nvidia,3.3,windows,ssd,0,512,15.6,8
+hp,130,other,Used,other,2.3,unknown,hdd,320,0,14,8
+hp,84.94,gray,Used,intel,2.3,windows,ssd,0,128,11.6,8
+lenovo,220,other,Excellent - Refurbished,intel,2.4,windows,hdd/ssd,512,512,14,12
+hp,429,silver,New,intel,4.1,windows,hdd/ssd,1000,1000,15.6,32
+dell,110,black,Used,intel,1.7,windows,hdd/ssd,256,256,12.3,8
+dell,722,gray,Open box,other,1.1,windows,ssd,0,512,13.3,32
+hp,164.5,black,Good - Refurbished,other,1.9,windows,ssd,0,256,14,8
+lenovo,100,black,Used,intel,2.4,windows,hdd/ssd,250,256,15.6,8
+dell,409.8,black,Used,intel,2.5,windows,ssd,0,256,15.6,8
+hp,39,other,Used,other,2.16,windows,hdd,4,0,15,4
+dell,235,black,Used,other,1.9,windows,hdd/ssd,512,512,12,16
+hp,240,silver,Used,amd,2.3,unknown,ssd,0,512,14,16
+lenovo,280,black,Used,intel,1.8,windows,hdd/ssd,256,256,15.6,16
+hp,229.9,red,Open box,other,3.7,windows,ssd,0,128,15.6,4
+asus,78.6,other,Used,other,1.8,windows,hdd,500,0,11.6,4
+dell,890,black,Used,nvidia,5,windows,ssd,0,1000,16,16
+hp,229,silver,Used,other,1.6,windows,ssd,0,512,14,16
+lenovo,89,black,Used,intel,2.6,windows,hdd,500,0,14,8
+acer,43,gray,Good - Refurbished,intel,1.4,chrome,hdd/ssd,16,16,11.6,2
+dell,300,black,Excellent - Refurbished,intel,1.9,windows,hdd/ssd,1000,1000,14,32
+lenovo,400,black,Used,other,2.08,windows,hdd/ssd,1000,1000,15.6,32
+dell,125.94,black,Used,intel,2.4,windows,hdd/ssd,512,256,14,8
+hp,495,other,New,intel,2.6,windows,hdd/ssd,256,256,14,16
+dell,130,black,Used,intel,2.6,windows,hdd/ssd,128,128,14,16
+hp,175,brown,Used,amd,2.67,windows,hdd/ssd,1000,1000,17.3,8
+dell,710,gray,Excellent - Refurbished,intel,1.8,windows,hdd/ssd,512,512,15.6,16
+hp,799,other,Used,intel,1.3,chrome,hdd/ssd,128,128,13.5,8
+dell,200,black,Used,intel,2.4,windows,hdd/ssd,512,512,14,16
+lenovo,190,black,Used,intel,1.7,windows,hdd,1000,0,12.1,4
+dell,189,black,Very Good - Refurbished,intel,2.4,windows,hdd,1000,0,15.6,6
+hp,816,silver,Used,intel,4.4,windows,hdd/ssd,256,256,16,16
+lenovo,299,blue,Open box,intel,1.7,windows,ssd,0,256,14,8
+acer,499.5,silver,Used,amd,2.8,windows,hdd/ssd,512,512,15.6,16
+dell,260,other,Good - Refurbished,intel,2.4,windows,ssd,0,512,14,16
+hp,160,silver,Used,intel,2.4,windows,ssd,0,256,14,16
+dell,49,black,Used,amd,1.6,chrome,hdd/ssd,32,32,11.6,4
+acer,2348,gray,Used,nvidia,5,windows,hdd/ssd,1000,1000,16,32
+dell,40,black,Used,other,2.3,windows,hdd,320,0,14,4
+lenovo,250,black,Used,intel,1.9,windows,hdd/ssd,256,256,14,24
+dell,500,black,Used,intel,2.8,windows,hdd/ssd,1000,1000,15.6,16
+dell,189.8,other,Used,other,2.2,windows,hdd/ssd,256,256,14,8
+dell,296.2,other,Excellent - Refurbished,intel,1.6,windows,hdd/ssd,512,512,14,16
+dell,588.5,other,Used,other,3.9,windows,hdd,500,0,15.6,4
+dell,759,other,Very Good - Refurbished,intel,4.9,windows,ssd,0,512,13.3,16
+hp,1200,black,Used,nvidia,4.7,windows,hdd/ssd,4000,2000,15.6,64
+lenovo,253.1,other,Used,intel,3.7,windows,ssd,0,256,15.6,8
+dell,400,silver,Used,nvidia,2.8,windows,hdd/ssd,512,512,17,16
+hp,65,brown,Used,intel,2.5,windows,hdd,500,0,14,8
+dell,200,black,Used,intel,2.7,windows,hdd/ssd,1000,1000,14.1,8
+dell,98.7,gray,Used,intel,1.8,windows,ssd,0,160,13,8
+dell,120,silver,Used,other,2.5,windows,hdd,1000,0,15.5,8
+lenovo,230,black,Used,intel,2.6,windows,ssd,0,512,14,16
+dell,140,black,Used,intel,2.7,windows,hdd,8,0,14,8
+hp,170,silver,Used,amd,2.6,windows,hdd/ssd,256,256,15.6,8
+hp,415,other,Used,intel,1.9,windows,hdd/ssd,1000,128,13,16
+dell,125,black,Used,intel,2.6,windows,hdd/ssd,256,256,12.5,16
+dell,670,gray,Used,other,3.6,windows,hdd/ssd,512,512,13.3,16
+hp,940,silver,Excellent - Refurbished,intel,3.5,windows,ssd,0,2000,15.6,64
+dell,130,black,Used,intel,2.5,windows,ssd,0,128,12.4,8
+hp,479.5,gray,Certified - Refurbished,intel,4.6,windows,ssd,0,256,15.6,8
+hp,139,other,Used,intel,2.16,chrome,ssd,0,16,14,4
+asus,1500,black,Used,nvidia,2.3,windows,ssd,0,1000,15.6,32
+dell,234.1,other,Good - Refurbished,intel,2.6,windows,ssd,0,256,12.5,8
+hp,90,silver,Used,intel,2.5,windows,hdd/ssd,128,128,12.3,8
+dell,165,other,Used,other,2,windows,hdd,80,0,14.1,3
+lenovo,25.5,black,Used,intel,1.83,chrome,hdd/ssd,16,16,11.6,4
+hp,35,silver,Used,amd,1.1,chrome,hdd/ssd,64,64,14,4
+dell,889,silver,New,other,5,windows,hdd/ssd,512,512,14,16
+dell,150,other,Used,other,2,windows,hdd,80,0,14.1,3
+dell,35,black,For parts or not working,other,2.3,unknown,hdd/ssd,128,128,12.5,8
+hp,135,other,Used,other,2.1,windows,hdd,16,0,14,16
+dell,100,black,Used,other,2.8,windows,hdd/ssd,512,64,14,16
+dell,570,multicolor,Open box,other,1.3,windows,ssd,0,512,16,8
+acer,50,gray,Used,intel,1.4,chrome,hdd/ssd,16,16,11.6,2
+acer,63,other,Good - Refurbished,other,2.1,chrome,hdd/ssd,32,32,13.3,4
+dell,99,black,Used,intel,1.1,windows,hdd/ssd,128,128,11.6,4
+hp,539,silver,Certified - Refurbished,amd,1.9,unknown,hdd/ssd,1000,1000,14,16
+hp,339,black,Used,other,2.1,windows,hdd/ssd,256,256,15.6,16
+lenovo,530,black,Used,other,3,windows,hdd/ssd,512,512,13.3,16
+microsoft,150,other,Used,other,2.6,unknown,hdd/ssd,256,256,13.3,8
+dell,575,green,Used,intel,4.7,windows,hdd/ssd,1000,1000,16,40
+lenovo,190,black,Used,intel,2.4,windows,ssd,0,512,14,16
+lenovo,220,other,Excellent - Refurbished,intel,2.4,windows,hdd/ssd,512,512,14,12
+dell,95,black,Used,other,2.7,unknown,hdd,8,0,15.6,8
+dell,263.2,other,Very Good - Refurbished,intel,1.6,windows,hdd/ssd,256,256,14,16
+lenovo,100,black,Used,intel,2.4,windows,hdd/ssd,250,256,15.6,8
+microsoft,355,platinum,Good - Refurbished,other,1.1,windows,ssd,0,256,12.3,8
+microsoft,240,black,Used,other,1.7,windows,hdd/ssd,256,256,12.1,8
+dell,40,other,Used,other,2,unknown,hdd,250,0,15.6,4
+dell,1450,black,Excellent - Refurbished,intel,2.4,windows,hdd/ssd,512,512,14,32
+hp,820,silver,New,intel,1.6,windows,hdd/ssd,1000,1000,13.3,8
+dell,170,multicolor,Used,intel,2.4,windows,hdd,160,0,14.1,4
+lenovo,199,black,Used,amd,2,windows,hdd/ssd,512,512,14,16
+hp,160,silver,For parts or not working,other,2.4,unknown,hdd,8,0,15.6,8
+dell,450,black,Used,intel,3,unknown,hdd/ssd,256,256,14,16
+lenovo,115,gray,Used,other,2,chrome,hdd/ssd,128,128,10.1,4
+hp,190,silver,Used,intel,1.6,windows,hdd/ssd,256,256,14,16
+lenovo,500,black,Used,nvidia,3,windows,ssd,0,256,15.6,8
+microsoft,299,silver,Used,intel,2.6,windows,hdd/ssd,256,256,12.3,8
+microsoft,150,silver,For parts or not working,intel,1.2,windows,hdd/ssd,128,128,12.3,4
+dell,450,multicolor,Used,nvidia,2.5,windows,hdd/ssd,1000,256,15.6,8
+dell,199,other,Used,other,2.7,windows,hdd/ssd,512,512,15.6,16
+dell,169,black,Used,intel,1.9,windows,hdd/ssd,512,512,14,16
+acer,375.2,black,Used,intel,1.1,chrome,hdd/ssd,32,32,12,4
+lenovo,1019,gray,Used,intel,1.7,windows,hdd/ssd,512,512,14,8
+dell,180,black,Used,intel,2.8,windows,ssd,0,256,15.6,8
+hp,218.9,black,Used,amd,2.4,windows,ssd,0,128,14,4
+dell,200,silver,Used,intel,2.5,unknown,hdd/ssd,1000,1000,15.6,8
+hp,200,other,Used,other,2.5,unknown,hdd/ssd,256,256,15.6,8
+lenovo,175,other,Used,other,2.5,windows,hdd/ssd,256,256,14,16
+dell,329,silver,Used,nvidia,2.7,windows,hdd/ssd,512,512,15.6,16
+microsoft,250,silver,Used,nvidia,2.6,windows,hdd/ssd,512,512,13.5,16
+dell,89,black,Used,other,2.4,windows,ssd,0,128,12.5,8
+dell,125,silver,Used,other,2.16,windows,ssd,0,128,17,2
+hp,24.98,silver,Used,intel,2.3,windows,hdd/ssd,240,240,14,8
+lenovo,119,black,Used,intel,1.9,windows,hdd/ssd,256,256,14,8
+acer,49,black,Good - Refurbished,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+lenovo,288.2,gray,Used,intel,2,windows,hdd/ssd,256,256,15.6,4
+acer,89.94,other,Used,other,1.8,unknown,hdd,500,0,14,6
+dell,1250,black,Very Good - Refurbished,intel,2.4,windows,hdd/ssd,256,256,14,8
+hp,569,silver,Used,other,1.6,windows,hdd,1000,0,15.6,4
+dell,820,black,Excellent - Refurbished,nvidia,2.3,windows,ssd,0,1000,16,16
+dell,307,black,Very Good - Refurbished,intel,1.9,windows,ssd,0,512,15.6,16
+dell,200,silver,Used,other,3.3,windows,hdd,500,0,14.1,8
+hp,834.5,gray,Used,nvidia,2.8,windows,hdd/ssd,2000,1000,15.6,32
+lenovo,171.5,black,Used,other,2.4,windows,ssd,0,256,14,8
+lenovo,799,black,Open box,intel,4.4,windows,ssd,0,256,16,8
+acer,400,black,Used,intel,2.3,windows,hdd/ssd,256,256,15.6,8
+dell,500,black,Used,other,2.8,windows,hdd/ssd,1000,1000,15.6,16
+hp,593,gray,For parts or not working,nvidia,1.8,windows,ssd,0,512,15.6,16
+dell,249,black,Very Good - Refurbished,intel,1.2,windows,ssd,0,256,15.6,8
+lenovo,280,gray,Used,intel,1.8,windows,hdd/ssd,256,256,14,8
+dell,130,other,Used,other,1.23,windows,ssd,0,256,12.5,8
+hp,389,silver,Used,intel,2.8,windows,hdd/ssd,512,512,15.6,16
+dell,40,black,Used,other,1.4,chrome,hdd/ssd,16,16,11.6,4
+dell,85,other,Used,nvidia,2.2,windows,ssd,0,128,15.6,8
+dell,329,silver,Excellent - Refurbished,intel,2.4,windows,ssd,0,256,13.3,8
+hp,360,silver,Used,other,4.1,windows,hdd/ssd,256,256,15.6,8
+samsung,33,black,Used,intel,2.5,chrome,hdd/ssd,16,16,11.6,4
+hp,184.2,silver,Used,other,2.3,windows,hdd/ssd,500,500,15.6,4
+samsung,100,other,Used,other,2.6,unknown,hdd,6,0,15.6,6
+microsoft,899,silver,Used,other,4.8,windows,hdd/ssd,16,256,13,16
+dell,115,black,Used,intel,2.3,chrome,hdd/ssd,32,32,13.3,8
+dell,165,black,Used,intel,1.7,windows,ssd,0,128,14,8
+lenovo,219,other,Used,other,1.7,windows,ssd,0,256,14,8
+dell,100,gray,Used,intel,2,windows,hdd/ssd,250,250,15.4,2
+dell,296.8,silver,Used,other,4.2,windows,hdd/ssd,8,512,15.6,8
+dell,759,gray,Used,intel,4.4,windows,hdd/ssd,512,512,14,16
+hp,700,black,Open box,intel,2.3,windows,hdd/ssd,16,1000,16,16
+dell,199,other,Used,other,1.6,windows,ssd,0,256,14,16
+acer,250,gray,Used,other,2.5,windows,hdd/ssd,1000,1000,15.6,8
+hp,200,silver,Used,intel,2.6,windows,hdd/ssd,512,512,14,16
+lenovo,175,gray,Used,other,2,chrome,hdd/ssd,128,128,10.1,4
+hp,444,silver,Open box,amd,2.3,windows,ssd,0,512,13.3,16
+asus,439,blue,Used,other,3,windows,hdd/ssd,256,256,15.6,8
+lenovo,149,black,Used,intel,2.3,windows,hdd/ssd,500,500,15.6,8
+lenovo,160,other,Used,other,2.3,windows,hdd/ssd,256,256,12.5,8
+hp,365,silver,Very Good - Refurbished,intel,1.8,windows,ssd,0,1000,15.6,32
+asus,529,black,Open box,intel,2.5,windows,hdd/ssd,512,512,14,8
+dell,239,silver,Used,nvidia,2.7,windows,hdd/ssd,512,512,15.6,16
+samsung,203.8,silver,Used,intel,3.2,windows,hdd/ssd,256,256,14,4
+hp,240,silver,Used,amd,2.3,windows,hdd/ssd,512,512,14,32
+microsoft,380,black,Used,other,1.8,windows,ssd,0,128,13,8
+dell,825,black,Used,amd,1.9,windows,ssd,0,1000,14,16
+dell,800,silver,Used,amd,3.1,windows,ssd,0,1000,15.6,16
+dell,130,black,Used,intel,2.6,windows,hdd/ssd,256,256,12.5,8
+lenovo,350,black,Good - Refurbished,intel,1.8,windows,hdd/ssd,256,256,13,16
+dell,159,black,Used,other,1.9,windows,hdd/ssd,8,256,12.5,8
+lenovo,65,black,Used,other,1.6,windows,ssd,0,115,10.1,4
+hp,155,black,New,intel,1.2,windows,hdd/ssd,128,128,12,4
+dell,90,other,Used,other,2.6,windows,hdd/ssd,128,128,15.6,8
+microsoft,180,silver,Used,intel,2.4,windows,ssd,0,256,12.3,8
+hp,200,multicolor,Good - Refurbished,intel,1.8,windows,hdd/ssd,256,256,15.6,16
+lenovo,95,black,Used,other,2.4,unknown,ssd,0,256,12.5,8
+lenovo,220,black,Used,intel,1.6,windows,hdd/ssd,512,512,14,16
+dell,82,other,Used,intel,2.4,windows,ssd,0,256,14,8
+dell,175,black,Used,intel,2.6,windows,hdd/ssd,256,256,12.5,16
+dell,599,black,Used,intel,2.6,windows,hdd/ssd,256,256,14,16
+lenovo,40,black,For parts or not working,other,2.3,unknown,hdd,4,0,14,4
+hp,800,silver,Used,intel,2.8,windows,ssd,0,512,15.6,16
+dell,60,black,Used,other,2.3,windows,hdd,500,0,14,8
+dell,119,black,Used,other,2.4,windows,ssd,0,256,14,8
+dell,260,other,Good - Refurbished,intel,2.4,windows,ssd,0,512,14,16
+asus,219,silver,Used,other,1.8,chrome,ssd,0,16,10.1,4
+lenovo,129,black,Used,intel,2.4,windows,ssd,0,180,15.6,4
+dell,425,green,Used,intel,4.7,windows,hdd/ssd,1000,1000,16,40
+hp,290,gray,Very Good - Refurbished,intel,3.2,windows,hdd,500,0,15.6,8
+hp,573,silver,Used,intel,1.3,windows,ssd,0,256,15.6,12
+microsoft,485,silver,Used,intel,3,windows,ssd,0,512,13.5,16
+dell,775,multicolor,Open box,other,3.6,windows,ssd,0,1000,13.3,16
+dell,400,black,Used,nvidia,2.5,windows,hdd/ssd,512,512,15.6,32
+dell,167.8,silver,Used,intel,2.4,windows,ssd,0,128,13.3,8
+dell,980,silver,Certified - Refurbished,other,5.2,windows,hdd/ssd,256,256,15.6,16
+lenovo,368,black,Used,intel,1.7,windows,ssd,0,512,14,16
+dell,300,silver,Used,intel,2.8,windows,hdd/ssd,512,512,14,16
+hp,45,gray,Used,intel,2.16,chrome,hdd/ssd,16,16,11.6,4
+dell,300,black,Used,intel,2,windows,ssd,0,256,14,12
+dell,695,black,Good - Refurbished,nvidia,2.6,windows,ssd,0,512,17.3,16
+lenovo,695,black,Used,nvidia,2.6,windows,hdd/ssd,512,512,15.6,32
+hp,120,silver,Used,intel,2.5,windows,hdd/ssd,240,240,14,8
+dell,37,black,For parts or not working,other,2.4,unknown,hdd,250,0,14,2
+dell,630,silver,Good - Refurbished,intel,2.5,windows,ssd,0,256,15.6,32
+acer,64.94,black,Used,other,1.4,windows,hdd/ssd,128,128,11.6,2
+lenovo,550,black,Used,intel,3,windows,ssd,0,512,14,16
+lenovo,600,other,Used,nvidia,2.3,windows,hdd/ssd,512,512,15,16
+dell,50,black,Used,intel,2.16,linux,hdd/ssd,16,16,11.6,4
+lenovo,46,black,Used,other,1.6,linux,hdd/ssd,16,16,11.6,4
+lenovo,110,black,Used,intel,2.6,windows,ssd,0,256,14,16
+hp,193,silver,New,amd,2.6,windows,hdd/ssd,128,128,14,8
+microsoft,180,silver,Used,intel,1.7,windows,hdd/ssd,256,256,13.5,16
+hp,100,other,Used,other,2.5,windows,hdd/ssd,256,256,15.6,8
+asus,299,green,Used,intel,2.8,windows,hdd/ssd,512,512,14,8
+lenovo,200,black,Used,other,2.8,windows,hdd/ssd,512,512,14,16
+lenovo,404,other,Used,other,1.6,windows,ssd,0,256,14,8
+lenovo,30,black,Used,intel,1.1,chrome,ssd,0,32,11.6,4
+dell,159,black,Used,other,1.9,windows,hdd/ssd,8,256,12.5,8
+dell,57,black,Used,intel,2.16,linux,hdd/ssd,16,16,11.6,4
+samsung,550,silver,Used,intel,2.8,windows,hdd/ssd,256,256,15.6,16
+microsoft,124,silver,Used,intel,1.1,windows,hdd/ssd,64,64,10.5,64
+dell,130,black,Used,intel,2.6,windows,hdd/ssd,128,128,14,16
+hp,130,other,Used,other,2.3,unknown,hdd,320,0,14,8
+lg,275,gray,For parts or not working,nvidia,2,windows,hdd/ssd,512,512,16,16
+lenovo,225,black,Used,intel,1.9,windows,hdd/ssd,16,256,14,16
+hp,579,silver,Used,intel,2.4,windows,hdd/ssd,256,256,17.3,8
+dell,95.94,black,Used,other,1.7,windows,ssd,0,128,13.3,4
+dell,286,other,Used,other,1.8,windows,hdd/ssd,256,256,13.3,16
+hp,120,silver,Used,intel,2.6,windows,ssd,0,256,14,8
+dell,679,gray,Certified - Refurbished,nvidia,2.6,windows,ssd,0,512,15.6,32
+lenovo,218.5,black,Used,intel,1.6,windows,ssd,0,256,13.3,16
+dell,328,other,Good - Refurbished,intel,2.6,windows,ssd,0,1000,11.6,16
+microsoft,124,silver,Used,intel,1.1,windows,hdd/ssd,64,64,10.5,64
+microsoft,409,silver,Open box,intel,2.4,windows,ssd,0,256,12.3,8
+dell,125.94,black,Very Good - Refurbished,intel,2.4,windows,ssd,0,240,14,8
+hp,89.94,gray,Used,intel,1,windows,ssd,0,128,11.6,8
+lenovo,949,gray,Used,intel,1.7,windows,ssd,0,512,14,16
+dell,270,black,Excellent - Refurbished,other,4.8,windows,hdd/ssd,512,512,13.3,16
+hp,180,silver,Used,other,2.5,windows,ssd,0,256,14,8
+dell,399,black,Used,intel,1.7,unknown,hdd/ssd,512,512,14,32
+lenovo,649.5,gray,New,nvidia,2.1,windows,hdd/ssd,512,512,15.6,16
+hp,780,silver,New,intel,1.7,windows,hdd/ssd,1000,4000,17.3,64
+asus,609,blue,New,amd,4.4,windows,hdd/ssd,1000,1000,16,16
+samsung,450,blue,Used,intel,2.8,windows,ssd,0,512,13.3,16
+lenovo,156.1,other,Used,other,2.6,windows,ssd,0,256,14,8
+hp,350,silver,Used,intel,1,windows,ssd,0,1000,15.6,32
+dell,388,black,Used,intel,1,windows,ssd,0,256,13.3,8
+dell,190,black,Used,other,2.3,windows,hdd,500,0,14,8
+hp,390,silver,New,intel,2.4,windows,hdd/ssd,256,256,15.6,8
+dell,100,black,Used,other,2.3,windows,hdd/ssd,256,256,14,8
+asus,840,black,Used,nvidia,2.3,windows,hdd/ssd,512,512,16,16
